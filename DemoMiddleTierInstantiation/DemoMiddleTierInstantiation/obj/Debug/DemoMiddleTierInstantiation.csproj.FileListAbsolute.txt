@@ -1,0 +1,5 @@
+C:\Documents and Settings\Rich\My Documents\Visual Studio 2008\Projects\DemoMiddleTierInstantiation\DemoMiddleTierInstantiation\bin\DemoMiddleTierInstantiation.dll
+C:\Documents and Settings\Rich\My Documents\Visual Studio 2008\Projects\DemoMiddleTierInstantiation\DemoMiddleTierInstantiation\bin\DemoMiddleTierInstantiation.pdb
+C:\Documents and Settings\Rich\My Documents\Visual Studio 2008\Projects\DemoMiddleTierInstantiation\DemoMiddleTierInstantiation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rich\My Documents\Visual Studio 2008\Projects\DemoMiddleTierInstantiation\DemoMiddleTierInstantiation\obj\Debug\DemoMiddleTierInstantiation.dll
+C:\Documents and Settings\Rich\My Documents\Visual Studio 2008\Projects\DemoMiddleTierInstantiation\DemoMiddleTierInstantiation\obj\Debug\DemoMiddleTierInstantiation.pdb

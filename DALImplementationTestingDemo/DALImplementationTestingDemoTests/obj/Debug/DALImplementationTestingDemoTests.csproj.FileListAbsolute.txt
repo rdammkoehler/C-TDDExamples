@@ -1,0 +1,10 @@
+C:\Documents and Settings\Rich\My Documents\Visual Studio 2008\Projects\DALImplementationTestingDemo\DALImplementationTestingDemoTests\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rich\My Documents\Visual Studio 2008\Projects\DALImplementationTestingDemo\DALImplementationTestingDemoTests\bin\Debug\DALImplementationTestingDemoTests.dll
+C:\Documents and Settings\Rich\My Documents\Visual Studio 2008\Projects\DALImplementationTestingDemo\DALImplementationTestingDemoTests\bin\Debug\DALImplementationTestingDemoTests.pdb
+C:\Documents and Settings\Rich\My Documents\Visual Studio 2008\Projects\DALImplementationTestingDemo\DALImplementationTestingDemoTests\bin\Debug\DALImplementationTestingDemo.dll
+C:\Documents and Settings\Rich\My Documents\Visual Studio 2008\Projects\DALImplementationTestingDemo\DALImplementationTestingDemoTests\bin\Debug\nunit.framework.dll
+C:\Documents and Settings\Rich\My Documents\Visual Studio 2008\Projects\DALImplementationTestingDemo\DALImplementationTestingDemoTests\bin\Debug\DALImplementationTestingDemo.pdb
+C:\Documents and Settings\Rich\My Documents\Visual Studio 2008\Projects\DALImplementationTestingDemo\DALImplementationTestingDemoTests\bin\Debug\nunit.framework.xml
+C:\Documents and Settings\Rich\My Documents\Visual Studio 2008\Projects\DALImplementationTestingDemo\DALImplementationTestingDemoTests\obj\Debug\DALImplementationTestingDemoTests.dll
+C:\Documents and Settings\Rich\My Documents\Visual Studio 2008\Projects\DALImplementationTestingDemo\DALImplementationTestingDemoTests\obj\Debug\DALImplementationTestingDemoTests.pdb
+C:\Documents and Settings\Rich\My Documents\Visual Studio 2008\Projects\DALImplementationTestingDemo\DALImplementationTestingDemoTests\bin\Debug\NMock2.dll

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Rich\My Documents\Visual Studio 2008\Projects\DALImplementationTestingDemo\DALImplementationTestingDemo\bin\Debug\DALImplementationTestingDemo.dll
+C:\Documents and Settings\Rich\My Documents\Visual Studio 2008\Projects\DALImplementationTestingDemo\DALImplementationTestingDemo\bin\Debug\DALImplementationTestingDemo.pdb
+C:\Documents and Settings\Rich\My Documents\Visual Studio 2008\Projects\DALImplementationTestingDemo\DALImplementationTestingDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Rich\My Documents\Visual Studio 2008\Projects\DALImplementationTestingDemo\DALImplementationTestingDemo\obj\Debug\DALImplementationTestingDemo.dll
+C:\Documents and Settings\Rich\My Documents\Visual Studio 2008\Projects\DALImplementationTestingDemo\DALImplementationTestingDemo\obj\Debug\DALImplementationTestingDemo.pdb
